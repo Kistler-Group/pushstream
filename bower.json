@@ -1,0 +1,23 @@
+{
+  "name": "pushstream",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TylerLH/pushstream",
+  "authors": [
+    "Tyler Hughes <iampbt@gmail.com>"
+  ],
+  "description": "Nginx Push Stream Module JS Client",
+  "main": "pushstream.js",
+  "keywords": [
+    "websockets",
+    "nginx",
+    "comet"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
