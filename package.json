@@ -1,0 +1,24 @@
+{
+  "name": "pushstream",
+  "version": "0.0.1",
+  "description": "Nginx Push Stream Module JS Client",
+  "main": "pushstream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kistler-Group/pushstream.git"
+  },
+  "keywords": [
+    "websockets",
+    "nginx",
+    "comet"
+  ],
+  "author": "nginx",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Kistler-Group/pushstream/issues"
+  },
+  "homepage": "https://github.com/Kistler-Group/pushstream#readme"
+}
